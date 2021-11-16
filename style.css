@@ -1,0 +1,17 @@
+h1 {
+    background-color: whitesmoke;
+    text-align: center;
+}
+.eggs {
+    color: gold;
+}
+.milk {
+    color: chocolate;
+}
+.tiara {
+    color: pink;
+}
+img {
+    margin: auto;
+    display: block;
+}
